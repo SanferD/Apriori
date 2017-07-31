@@ -1,12 +1,10 @@
 # Apriori
 
-
-
-To build, run make.
+To build, run `make`.
 Only tested on Linux.
 
 To run,
-./hcrminer `<minsup>` `<minconf>` `<inputfile>` `<outputfile>` `<hfrange>` `<maxleafsize>`
+`./hcrminer <minsup> <minconf> <inputfile> <outputfile> <hfrange> <maxleafsize>`
 
 What does all of that mean?
 
